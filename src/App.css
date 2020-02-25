@@ -1,0 +1,94 @@
+*{
+  background-color: black;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  background:rgb(44, 43, 43);
+  padding:12px;
+}
+
+button{
+  margin: 0 auto;
+  font-size: 23px;
+  display: block;
+  color: white;
+  background-color: red;
+  width: 260px;
+  height: 50px;
+}
+
+.center{
+  position: absolute;
+  top:20%;
+  left:37%; 
+  margin-top: -50px;
+  margin-left: -100px;
+  width:40%;
+}
+
+.try{
+  position: absolute;
+  top:63%;
+  left:50%; 
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+.plusone{
+  position: absolute;
+  color:white;
+  font-size: 35px;
+  background:rgb(44, 43, 43);
+  left: 720px;
+  top: 20px;
+}
+
+.plustwo{
+  position: absolute;
+  color:white;
+  font-size: 35px;
+  background:rgb(44, 43, 43);
+  left: 720px;
+  top: 90px;
+}
+.plusthree{
+  position: absolute;
+  color:white;
+  font-size: 35px;
+  background:rgb(44, 43, 43);
+  left: 720px;
+  top: 154px;
+}
+.plusfour{
+  position: absolute;
+  color:white;
+  font-size: 35px;
+  background:rgb(44, 43, 43);
+  left: 720px;
+  top: 222px;
+}
+.plusfive{
+  position: absolute;
+  color:white;
+  font-size: 35px;
+  background:rgb(44, 43, 43);
+  left: 720px;
+  top: 288px;
+}
+.plussix{
+  position: absolute;
+  color:white;
+  font-size: 35px;
+  background:rgb(44, 43, 43);
+  left: 720px;
+  top: 356px;
+}
